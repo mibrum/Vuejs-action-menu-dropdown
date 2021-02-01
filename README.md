@@ -1,19 +1,29 @@
-# action_menu
+## Vue.js action menu dropdown component :octocat:
 
-## Project setup
+<p align="center">
+<img src="https://i.ibb.co/9nWBMxr/dropdown.png" width="50%">
+</p>
+  
+Toggeable dropdown menu made with Vue.js for displaying lists of links and actions in a dropdown menu format.
+
+### Usage
+
+#### Project setup
+
+1. Package and dependencies installation.
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+2. Compiles and hot-reloads for development
 ```
 npm run serve
 ```
 
-### Compiles and minifies for production
+3. Compiles and minifies for production
 ```
 npm build
 ```
 
-### Customize configuration
+#### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
